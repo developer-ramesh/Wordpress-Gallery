@@ -1,4 +1,6 @@
-# Wordpress-Gallery
+# Wordpress simple photo gallery plugin 
 WordPress base simple gallery with Jquery lightbox
 
-## Easy to use 
+## Easy to use Wordpress photo gallery plugin
+
+use [simle-gallary]
